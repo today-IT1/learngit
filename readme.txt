@@ -7,4 +7,4 @@ first add one line ---Git nothing is sucess
 add one line
 
 
-Creating a new branch is quick
+Creating a new branch is quick AND simple
