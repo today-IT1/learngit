@@ -7,4 +7,8 @@ first add one line ---Git nothing is sucess
 add one line
 
 
+<<<<<<< HEAD
 Createing a new branch is quick AND master
+=======
+Creating a new branch is quick AND master
+>>>>>>> featurel
